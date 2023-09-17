@@ -1,4 +1,4 @@
-## Simple Chatbot Implementation with Python
+## Simple Chatbot
 
 This python code provides a simple implementation of an interactable chatbot that understands user message, and provides appropriate response. The chatbot is implemented using LogisticRegression model using sklearn package. 
 
@@ -24,4 +24,4 @@ This python code provides a simple implementation of an interactable chatbot tha
 
 ## Reference
 
-This project includes code sourced from the End to End Chatbot using Python (https://thecleverprogrammer.com/2023/03/27/end-to-end-chatbot-using-python/) by Aman Kharwal.
+This project includes code sourced from the End to End Chatbot using Python (https://thecleverprogrammer.com/2023/03/27/end-to-end-chatbot-using-python/)
